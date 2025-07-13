@@ -31,4 +31,5 @@
 |-----------|--------------|--------------|
 | Project #1 MyLib | 2025.03.17 ~ 2025.03.28 | 일반적인 커널 코드에서 쓰이는 List/Hashtable/Bitmap의 자료구조 분석 및 구현 |
 | Project #2 MyShell | 2025.03.31 ~ 2025.04.18 | 리눅스 셸의 핵심 기능(프로세스 생성, 입출력 리디렉션, 파이프, 백그라운드 작업, 잡 제어 등)을 직접 구현하며 시스템 프로그래밍 개념 학습 |
-| Project #3  | ~ | ~ |
+| Project #3 Stock Server | 2025.05.14 ~ 2025.06.02 | select() 기반 event-driven, BST 서버 구현. 다중 클라이언트 요청을 처리하며 show, buy, sell, exit 명령어를 지원하고, 이후 mutex를 활용하여 동기화 처리 |
+| Project #4 Mallocator | 2025.06.02 ~ 2025.06.24 | explicit free list, best fit, coalescing 을 포함한 동적 메모리 구현. 메모리 단편화 최소화를 목표로 최적화 기법 적용 |
